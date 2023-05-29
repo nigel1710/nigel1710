@@ -2,6 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence And Machine Learning ...
 - 🌱 I’m currently learning artificial intelligence and machine learning ...
 - I have participated in many hackathons in the AI & ML domain 
+- Winner of TIAA Inter College Hackathon 2023.
 - Winner of 'Moisture Minds' Hackathon hosted by IIT Dharwad
 - Shortlisted among Top 5 teams for 'Chemical Intelligence - ML Challenge' hosted by IIT Kharagpur
 - Shortlisted in Top 5 teams for Unscript Rookies 2k22 hackathon hosted by Fr. Conceicao Rodrigues College of Engineering
